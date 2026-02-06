@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/set-state-in-effect */
 import { useState, useCallback, useEffect, useRef } from "react";
 
 function App() {
