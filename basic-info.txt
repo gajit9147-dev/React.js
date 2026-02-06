@@ -1,0 +1,27 @@
+build=when push our code for production ,When your project is finished
+
+Build = convert your React code into normal website files that a browser can understand.
+>>Gitignor
+
+gitignor = basically used to push our code on github
+here have some unwanted module when our code is push 
+# dependencies
+/node_modules
+/.pnp
+.pnp.js all this thing delete then push if you downlode this code on github then again install modul 
+
+
+>>Manifest
+The manifest file helps your website act like a mobile app (PWA).
+
+It tells the browser:
+
+App name
+
+App icon
+
+Theme color
+
+How the app opens
+
+Whether it can be installed on phone/home screen
